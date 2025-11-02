@@ -1,0 +1,15 @@
+# python
+__pycache__/
+*.py[cod]
+venv/
+.env
+# editors
+.vscode/
+.idea/
+.DS_Store
+# node
+node_modules/
+# large assets
+*.mp4
+*.mov
+*.zip
