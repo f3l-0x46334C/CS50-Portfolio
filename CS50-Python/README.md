@@ -56,7 +56,7 @@ CS50-Python/
 
 | Week | Status |
 |------|--------|
-| Week 0 | 🚧 In Progress |
+| Week 0 | ✅️ |
 | Week 1 | ⏳ |
 | Week X | ⏳ |
 | Final Project | ⏳ |
