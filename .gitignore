@@ -13,3 +13,5 @@ node_modules/
 *.mp4
 *.mov
 *.zip
+# practice workspace
+workspace/
