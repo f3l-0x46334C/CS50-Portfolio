@@ -40,11 +40,11 @@ This repo publicly tracks my progress and growth during the CS50P journey.
 CS50-Python/
 ├── problem-sets/
 │   ├── week0/
-│   │   ├── pset1/
-│   │   └── pset2/
+│   │   ├── pset0/
+│   │   └── pset1/
 │   ├── week1/
-│   │   ├── pset1/
-│   │   └── pset2/
+│   │   ├── pset0/
+│   │   └── pset1/
 │   └── ...
 └── final-project/
 ```
@@ -57,7 +57,8 @@ CS50-Python/
 | Week | Status |
 |------|--------|
 | Week 0 | ✅️ |
-| Week 1 | ⏳ |
+| Week 1 | ✅️ |
+| Week 2 | ⏳ |
 | Week X | ⏳ |
 | Final Project | ⏳ |
 
@@ -76,8 +77,8 @@ Certificate will be added after course completion.
 
 Use Python for:
 
-- Cybersecurity automation & OSINT tools  
 - Data and machine learning workflows  
+- Cybersecurity automation  
 - CLI utilities and system scripting  
 - Real-world software and personal projects  
 
