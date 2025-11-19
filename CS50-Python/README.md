@@ -58,7 +58,7 @@ CS50-Python/
 |------|--------|
 | Week 0 | ✅️ |
 | Week 1 | ✅️ |
-| Week 2 | ⏳ |
+| Week 2 | ✅️ |
 | Week X | ⏳ |
 | Final Project | ⏳ |
 
